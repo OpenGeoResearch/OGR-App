@@ -1,0 +1,716 @@
+[
+  {
+  "level": 1,
+  "id": 1,
+  "ogr": true,
+  "label": "Natural sciences",
+  "children": [
+    {
+      "level": 2,
+      "id": 105,
+      "ogr": true,
+      "label": "Geosciences",
+      "children": [
+        {
+          "level": 3,
+          "id": 1051,
+          "ogr": true,
+          "label": "Geology, Mineralogy",
+          "children": [
+            {
+              "level": 4,
+              "id": 105101,
+              "ogr": true,
+              "label": "General geology"
+            },
+            {
+              "level": 4,
+              "id": 105104,
+              "ogr": true,
+              "label": "Erosion"
+            },
+            {
+              "level": 4,
+              "id": 105105,
+              "ogr": true,
+              "label": "Geochemistry"
+            },
+            {
+              "level": 4,
+              "id": 105106,
+              "ogr": true,
+              "label": "Geodynamics"
+            },
+            {
+              "level": 4,
+              "id": 105108,
+              "ogr": true,
+              "label": "Geostatistics"
+            },
+            {
+              "level": 4,
+              "id": 105109,
+              "ogr": true,
+              "label": "Geothermics"
+            },
+            {
+              "level": 4,
+              "id": 105116,
+              "ogr": true,
+              "label": "Mineralogy"
+            },
+            {
+              "level": 4,
+              "id": 105120,
+              "ogr": true,
+              "label": "Petrology"
+            },
+            {
+              "level": 4,
+              "id": 105121,
+              "ogr": true,
+              "label": "Sedimentology"
+            },
+            {
+              "level": 4,
+              "id": 105122,
+              "ogr": true,
+              "label": "Seismic"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "id": 1052,
+          "ogr": true,
+          "label": "Meteorology, Climatology",
+          "children": [
+            {
+              "level": 4,
+              "id": 105204,
+              "ogr": true,
+              "label": "Climatology"
+            },
+            {
+              "level": 4,
+              "id": 105205,
+              "ogr": true,
+              "label": "Climate change"
+            },
+            {
+              "level": 4,
+              "id": 105206,
+              "ogr": true,
+              "label": "Meteorology"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "id": 1053,
+          "ogr": true,
+          "label": "Hydrology",
+          "children": [
+            {
+              "level": 4,
+              "id": 105301,
+              "ogr": true,
+              "label": "Water protection"
+            },
+            {
+              "level": 4,
+              "id": 105303,
+              "ogr": true,
+              "label": "Hydrogeology"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "id": 1054,
+          "ogr": true,
+          "label": "Physical Geography",
+          "children": [
+            {
+              "level": 4,
+              "id": 105404,
+              "ogr": true,
+              "label": "Geomorphology"
+            },
+            {
+              "level": 4,
+              "id": 105405,
+              "ogr": true,
+              "label": "Geoecology"
+            },
+            {
+              "level": 4,
+              "id": 105408,
+              "ogr": true,
+              "label": "Physical geography"
+            },
+            {
+              "level": 4,
+              "id": 105409,
+              "ogr": true,
+              "label": "Topography"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "id": 1059,
+          "ogr": true,
+          "label": "Interdisciplinary Geosciences not elsewhere classified",
+          "children": [
+            {
+              "level": 4,
+              "id": 105902,
+              "ogr": true,
+              "label": "Natural hazards"
+            },
+            {
+              "level": 4,
+              "id": 105905,
+              "ogr": true,
+              "label": "Environmental protection"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "id": 106,
+      "ogr": true,
+      "label": "Biology",
+      "children": [
+        {
+          "level": 3,
+          "id": 1060,
+          "ogr": true,
+          "label": "Biology",
+          "children": [
+            {
+              "level": 4,
+              "id": 106003,
+              "ogr": true,
+              "label": "Biodiversity research"
+            },
+            {
+              "level": 4,
+              "id": 106008,
+              "ogr": true,
+              "label": "Botany"
+            },
+            {
+              "level": 4,
+              "id": 106010,
+              "ogr": true,
+              "label": "Developmental biology"
+            },
+            {
+              "level": 4,
+              "id": 106012,
+              "ogr": true,
+              "label": "Evolutionary research"
+            },
+            {
+              "level": 4,
+              "id": 106019,
+              "ogr": true,
+              "label": "Hydrobiology"
+            },
+            {
+              "level": 4,
+              "id": 106020,
+              "ogr": true,
+              "label": "Limnology"
+            },
+            {
+              "level": 4,
+              "id": 106021,
+              "ogr": true,
+              "label": "Marine biology"
+            },
+            {
+              "level": 4,
+              "id": 106022,
+              "ogr": true,
+              "label": "Microbiology"
+            },
+            {
+              "level": 4,
+              "id": 106023,
+              "ogr": true,
+              "label": "Molecular biology"
+            },
+            {
+              "level": 4,
+              "id": 106024,
+              "ogr": true,
+              "label": "Mycology"
+            },
+            {
+              "level": 4,
+              "id": 106026,
+              "ogr": true,
+              "label": "Ecosystem research"
+            },
+            {
+              "level": 4,
+              "id": 106027,
+              "ogr": true,
+              "label": "Ecotoxicology"
+            },
+            {
+              "level": 4,
+              "id": 106047,
+              "ogr": true,
+              "label": "Animal ecology"
+            },
+            {
+              "level": 4,
+              "id": 106050,
+              "ogr": true,
+              "label": "Vegetation science"
+            },
+            {
+              "level": 4,
+              "id": 106051,
+              "ogr": true,
+              "label": "Behavioural biology"
+            },
+            {
+              "level": 4,
+              "id": 106053,
+              "ogr": true,
+              "label": "Zoogeography"
+            },
+            {
+              "level": 4,
+              "id": 106054,
+              "ogr": true,
+              "label": "Zoology"
+            },
+            {
+              "level": 4,
+              "id": 106055,
+              "ogr": true,
+              "label": "Aerobiology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "id": 107,
+      "ogr": true,
+      "label": "Other Natural Sciences",
+      "children": [
+        {
+          "level": 3,
+          "id": 1070,
+          "ogr": true,
+          "label": "Other Natural Sciences",
+          "children": [
+            {
+              "level": 4,
+              "id": 107006,
+              "ogr": true,
+              "label": "Nature conservation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+  {
+    "level": 1,
+    "id": 2,
+    "ogr": true,
+    "label": "Technical sciences",
+    "children": [
+      {
+        "level": 2,
+        "id": 201,
+        "ogr": true,
+        "label": "Construction Engineering",
+        "children": [
+          {
+            "level": 3,
+            "id": 2011,
+            "ogr": true,
+            "label": "Civil Engineering",
+            "children": [
+              {
+                "level": 4,
+                "id": 201109,
+                "ogr": true,
+                "label": "Bridge construction"
+              },
+              {
+                "level": 4,
+                "id": 201111,
+                "ogr": true,
+                "label": "River engineering"
+              },
+              {
+                "level": 4,
+                "id": 201123,
+                "ogr": true,
+                "label": "Underground engineering"
+              },
+              {
+                "level": 4,
+                "id": 201128,
+                "ogr": true,
+                "label": "Sustainable building"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2012,
+            "ogr": true,
+            "label": "Architecture",
+            "children": [
+              {
+                "level": 4,
+                "id": 201210,
+                "ogr": true,
+                "label": "Landscape architecture"
+              },
+              {
+                "level": 4,
+                "id": 201212,
+                "ogr": true,
+                "label": "Urban design"
+              },
+              {
+                "level": 4,
+                "id": 201215,
+                "ogr": true,
+                "label": "Building cultural heritage"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2013,
+            "ogr": true,
+            "label": "Transportation",
+            "children": [
+              {
+                "level": 4,
+                "id": 201301,
+                "ogr": true,
+                "label": "Railway construction"
+              },
+              {
+                "level": 4,
+                "id": 201302,
+                "ogr": true,
+                "label": "Railway engineering"
+              },
+              {
+                "level": 4,
+                "id": 201303,
+                "ogr": true,
+                "label": "Ropeways"
+              },
+              {
+                "level": 4,
+                "id": 201304,
+                "ogr": true,
+                "label": "Road construction"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2019,
+            "ogr": true,
+            "label": "Construction Engineering not elsewhere classified",
+            "children": [
+              {
+                "level": 4,
+                "id": 201906,
+                "ogr": true,
+                "label": "Building-integrated vegetation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "id": 207,
+        "ogr": true,
+        "label": "Environmental Engineering, Applied Geosciences",
+        "children": [
+          {
+            "level": 3,
+            "id": 2071,
+            "ogr": true,
+            "label": "Environmental Engineering",
+            "children": [
+              {
+                "level": 4,
+                "id": 207104,
+                "ogr": true,
+                "label": "Remediation of contaminated sites"
+              },
+              {
+                "level": 4,
+                "id": 207106,
+                "ogr": true,
+                "label": "Renewable energy"
+              },
+              {
+                "level": 4,
+                "id": 207109,
+                "ogr": true,
+                "label": "Pollutant emission"
+              },
+              {
+                "level": 4,
+                "id": 207113,
+                "ogr": true,
+                "label": "Water infrastructure"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2072,
+            "ogr": true,
+            "label": "Engineering Geology, Geotechnics",
+            "children": [
+              {
+                "level": 4,
+                "id": 207201,
+                "ogr": true,
+                "label": "Soil mechanics"
+              },
+              {
+                "level": 4,
+                "id": 207207,
+                "ogr": true,
+                "label": "Tunnelling"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2073,
+            "ogr": true,
+            "label": "Mining, Petroleum Engineering"
+          },
+          {
+            "level": 3,
+            "id": 2074,
+            "ogr": true,
+            "label": "Geodesy, Surveying"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "id": 4,
+    "ogr": true,
+    "label": "Agricultural sciences, veterinary medicine",
+    "children": [
+      {
+        "level": 2,
+        "id": 401,
+        "ogr": true,
+        "label": "Agriculture and Forestry, Fishery",
+        "children": [
+          {
+            "level": 3,
+            "id": 4011,
+            "ogr": true,
+            "label": "Cultivation of Land, Horticulture",
+            "children": [
+              {
+                "level": 4,
+                "id": 401101,
+                "ogr": true,
+                "label": "Cultivation of land"
+              },
+              {
+                "level": 4,
+                "id": 401103,
+                "ogr": true,
+                "label": "Horticulture"
+              },
+              {
+                "level": 4,
+                "id": 401106,
+                "ogr": true,
+                "label": "Landscape conservation"
+              },
+              {
+                "level": 4,
+                "id": 401117,
+                "ogr": true,
+                "label": "Viticulture"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 4012,
+            "ogr": true,
+            "label": "Forestry and Wood Industry",
+            "children": [
+              {
+                "level": 4,
+                "id": 401205,
+                "ogr": true,
+                "label": "Forestry"
+              },
+              {
+                "level": 4,
+                "id": 401208,
+                "ogr": true,
+                "label": "Forest ecology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "id": 405,
+        "ogr": true,
+        "label": "Other Agricultural Sciences",
+        "children": [
+          {
+            "level": 3,
+            "id": 4050,
+            "ogr": true,
+            "label": "Other Agricultural Sciences",
+            "children": [
+              {
+                "level": 4,
+                "id": 405004,
+                "ogr": true,
+                "label": "Sustainable agriculture"
+              },
+              {
+                "level": 4,
+                "id": 405005,
+                "ogr": true,
+                "label": "Wildlife science"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "id": 5,
+    "ogr": true,
+    "label": "Social sciences",
+    "children": [
+      {
+        "level": 2,
+        "id": 507,
+        "ogr": true,
+        "label": "Human Geography, Regional Geography, Regional Planning",
+        "children": [
+          {
+            "level": 3,
+            "id": 5070,
+            "ogr": true,
+            "label": "Human Geography, Regional Geography, Regional Planning",
+            "children": [
+              {
+                "level": 4,
+                "id": 507005,
+                "ogr": true,
+                "label": "Cultural geography"
+              },
+              {
+                "level": 4,
+                "id": 507008,
+                "ogr": true,
+                "label": "Landscape planning"
+              },
+              {
+                "level": 4,
+                "id": 507009,
+                "ogr": true,
+                "label": "Regional planning"
+              },
+              {
+                "level": 4,
+                "id": 507013,
+                "ogr": true,
+                "label": "Regional geography"
+              },
+              {
+                "level": 4,
+                "id": 507017,
+                "ogr": true,
+                "label": "Social geography"
+              },
+              {
+                "level": 4,
+                "id": 507018,
+                "ogr": true,
+                "label": "Urban and village renewal"
+              },
+              {
+                "level": 4,
+                "id": 507021,
+                "ogr": true,
+                "label": "Urban history"
+              },
+              {
+                "level": 4,
+                "id": 507022,
+                "ogr": true,
+                "label": "Urban planning"
+              },
+              {
+                "level": 4,
+                "id": 507025,
+                "ogr": true,
+                "label": "Transport planning"
+              },
+              {
+                "level": 4,
+                "id": 507027,
+                "ogr": true,
+                "label": "Sustainable urban development"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "id": 6,
+    "ogr": true,
+    "label": "Humanitites",
+    "children": [
+      {
+        "level": 2,
+        "id": 601,
+        "ogr": true,
+        "label": "History, Archaeology"
+      }
+    ]
+  }
+]

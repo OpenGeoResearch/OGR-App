@@ -1,0 +1,11 @@
+mutation($id: ID!, $voteDirection: VoteDirection!) {
+    questionVote(
+        id: $id,
+        voteDirection: $voteDirection
+    ) {
+        votes {
+          upCount
+          downCount
+        }
+    }
+}

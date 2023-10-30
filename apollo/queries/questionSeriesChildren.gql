@@ -1,0 +1,24 @@
+query Question($id: ID!) {
+    questionSeriesChildren(id: $id) {
+        id
+        votes {
+            upCount
+            downCount
+        }
+        datastream {
+            name
+            description
+            resultTime
+            images
+            category
+            observedArea
+        }
+        answers {
+            user {
+                roles {
+                    name
+                }
+            }
+        }
+    }
+}

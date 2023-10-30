@@ -1,0 +1,16 @@
+query QuestionSeries($id: ID!) {
+    questionSeriesById(id: $id) {
+        id
+        name
+        start
+        end
+        tag
+        exam
+        parentQuestion {
+            id
+            datastream {
+                name
+            }
+        }
+    }
+}

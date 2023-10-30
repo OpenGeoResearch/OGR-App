@@ -1,0 +1,65 @@
+<!--
+    Copyright (C) 2023 Geodätisches Institut RWTH Aachen University,
+    Mies-van-der-Rohe-Straße 1, D 52074 Aachen, Germany.
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+<template>
+  <v-dialog
+    v-model="show"
+    persistent
+    width="290"
+  >
+    <v-card color="caution">
+      <v-card-title class="headline white--text">
+        {{ $t('reset_title') }}
+      </v-card-title>
+      <v-card-text class="white--text">
+        {{ $t('reset_text') }}
+      </v-card-text>
+      <v-card-text class="white--text">
+        {{ $t('reset_demand') }}
+      </v-card-text>
+      <v-card-text align="center">
+        <v-btn
+          color="error"
+          x-small
+          @click="$emit('change-reset-allow')"
+        >
+          {{ $t('reset_allow') }}
+        </v-btn>
+      </v-card-text>
+      <v-card-text align="center">
+        <v-btn
+          @click="$emit('change-reset-deny')"
+        >
+          {{ $t('reset_deny') }}
+        </v-btn>
+      </v-card-text>
+    </v-card>
+  </v-dialog>
+</template>
+
+<script>
+
+export default {
+  name: 'ResetDialog',
+
+  data () {
+    return {
+      show: true
+    }
+  }
+}
+</script>

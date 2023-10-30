@@ -1,0 +1,3 @@
+query BookmarkQuery($id: ID!) {
+    isQuestionBookmarked(id: $id)
+}

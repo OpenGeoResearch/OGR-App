@@ -1,0 +1,710 @@
+[
+  {
+    "level": 1,
+    "id": 1,
+    "ogr": true,
+    "label": "Naturwissenschaften",
+    "children": [
+      {
+        "level": 2,
+        "id": 105,
+        "ogr": true,
+        "label": "Geowissenschaften",
+        "children": [
+          {
+            "level": 3,
+            "id": 1051,
+            "ogr": true,
+            "label": "Geologie, Mineralogie",
+            "children": [
+              {
+                "level": 4,
+                "id": 105101,
+                "ogr": true,
+                "label": "Allgemeine Geologie"
+              },
+              {
+                "level": 4,
+                "id": 105104,
+                "ogr": true,
+                "label": "Erosion"
+              },
+              {
+                "level": 4,
+                "id": 105105,
+                "ogr": true,
+                "label": "Geochemie"
+              },
+              {
+                "level": 4,
+                "id": 105106,
+                "ogr": true,
+                "label": "Geodynamik"
+              },
+              {
+                "level": 4,
+                "id": 105109,
+                "ogr": true,
+                "label": "Geothermik"
+              },
+              {
+                "level": 4,
+                "id": 105116,
+                "ogr": true,
+                "label": "Mineralogie"
+              },
+              {
+                "level": 4,
+                "id": 105120,
+                "ogr": true,
+                "label": "Petrologie"
+              },
+              {
+                "level": 4,
+                "id": 105121,
+                "ogr": true,
+                "label": "Sedimentologie"
+              },
+              {
+                "level": 4,
+                "id": 105122,
+                "ogr": true,
+                "label": "Seismik"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 1052,
+            "ogr": true,
+            "label": "Meteorologie, Klimatologie",
+            "children": [
+              {
+                "level": 4,
+                "id": 105204,
+                "ogr": true,
+                "label": "Klimatologie"
+              },
+              {
+                "level": 4,
+                "id": 105205,
+                "ogr": true,
+                "label": "Klimawandel"
+              },
+              {
+                "level": 4,
+                "id": 105206,
+                "ogr": true,
+                "label": "Meteorologie"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 1053,
+            "ogr": true,
+            "label": "Hydrologie",
+            "children": [
+              {
+                "level": 4,
+                "id": 105301,
+                "ogr": true,
+                "label": "Gewässerschutz"
+              },
+              {
+                "level": 4,
+                "id": 105304,
+                "ogr": true,
+                "label": "Hydrologie"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 1054,
+            "ogr": true,
+            "label": "Physische Geographie",
+            "children": [
+              {
+                "level": 4,
+                "id": 105404,
+                "ogr": true,
+                "label": "Geomorphologie"
+              },
+              {
+                "level": 4,
+                "id": 105405,
+                "ogr": true,
+                "label": "Geoökologie"
+              },
+              {
+                "level": 4,
+                "id": 105408,
+                "ogr": true,
+                "label": "Physische Geographie"
+              },
+              {
+                "level": 4,
+                "id": 105409,
+                "ogr": true,
+                "label": "Topographie"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 1059,
+            "ogr": true,
+            "label": "Sonstige und interdisziplinäre Geowissenschaften",
+            "children": [
+              {
+                "level": 4,
+                "id": 105902,
+                "ogr": true,
+                "label": "Naturgefahren"
+              },
+              {
+                "level": 4,
+                "id": 105905,
+                "ogr": true,
+                "label": "Umweltschutz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "id": 106,
+        "ogr": true,
+        "label": "Biologie",
+        "children": [
+          {
+            "level": 3,
+            "id": 1060,
+            "ogr": true,
+            "label": "Biologie",
+            "children": [
+              {
+                "level": 4,
+                "id": 106003,
+                "ogr": true,
+                "label": "Biodiversitätsforschung"
+              },
+              {
+                "level": 4,
+                "id": 106008,
+                "ogr": true,
+                "label": "Botanik"
+              },
+              {
+                "level": 4,
+                "id": 106010,
+                "ogr": true,
+                "label": "Entwicklungsbiologie"
+              },
+              {
+                "level": 4,
+                "id": 106012,
+                "ogr": true,
+                "label": "Evolutionsforschung"
+              },
+              {
+                "level": 4,
+                "id": 106019,
+                "ogr": true,
+                "label": "Hydrobiologie"
+              },
+              {
+                "level": 4,
+                "id": 106020,
+                "ogr": true,
+                "label": "Limnologie"
+              },
+              {
+                "level": 4,
+                "id": 106021,
+                "ogr": true,
+                "label": "Meeresbiologie"
+              },
+              {
+                "level": 4,
+                "id": 106024,
+                "ogr": true,
+                "label": "Mykologie"
+              },
+              {
+                "level": 4,
+                "id": 106026,
+                "ogr": true,
+                "label": "Ökosystemforschung"
+              },
+              {
+                "level": 4,
+                "id": 106027,
+                "ogr": true,
+                "label": "Ökotoxikologie"
+              },
+              {
+                "level": 4,
+                "id": 106047,
+                "ogr": true,
+                "label": "Tierökologie"
+              },
+              {
+                "level": 4,
+                "id": 106050,
+                "ogr": true,
+                "label": "Vegetationskunde"
+              },
+              {
+                "level": 4,
+                "id": 106051,
+                "ogr": true,
+                "label": "Verhaltensbiologie"
+              },
+              {
+                "level": 4,
+                "id": 106053,
+                "ogr": true,
+                "label": "Zoogeographie"
+              },
+              {
+                "level": 4,
+                "id": 106054,
+                "ogr": true,
+                "label": "Zoologie"
+              },
+              {
+                "level": 4,
+                "id": 106055,
+                "ogr": true,
+                "label": "Aerobiologie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "id": 107,
+        "ogr": true,
+        "label": "Andere Naturwissenschaften",
+        "children": [
+          {
+            "level": 3,
+            "id": 1070,
+            "ogr": true,
+            "label": "Andere Naturwissenschaften",
+            "children": [
+              {
+                "level": 4,
+                "id": 107006,
+                "ogr": true,
+                "label": "Naturschutz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "id": 2,
+    "ogr": true,
+    "label": "Technische Wissenschaften",
+    "children": [
+      {
+        "level": 2,
+        "id": 201,
+        "ogr": true,
+        "label": "Bauwesen",
+        "children": [
+          {
+            "level": 3,
+            "id": 2011,
+            "ogr": true,
+            "label": "Bauingenieurwesen",
+            "children": [
+              {
+                "level": 4,
+                "id": 201109,
+                "ogr": true,
+                "label": "Brückenbau"
+              },
+              {
+                "level": 4,
+                "id": 201111,
+                "ogr": true,
+                "label": "Flussbau"
+              },
+              {
+                "level": 4,
+                "id": 201122,
+                "ogr": true,
+                "label": "Technischer Hochwasserschutz"
+              },
+              {
+                "level": 4,
+                "id": 201123,
+                "ogr": true,
+                "label": "Tiefbau"
+              },
+              {
+                "level": 4,
+                "id": 201125,
+                "ogr": true,
+                "label": "Wasserbau"
+              },
+              {
+                "level": 4,
+                "id": 201128,
+                "ogr": true,
+                "label": "Nachhaltiges Bauen"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2012,
+            "ogr": true,
+            "label": "Architektur",
+            "children": [
+              {
+                "level": 4,
+                "id": 201210,
+                "ogr": true,
+                "label": "Landschaftsarchitektur"
+              },
+              {
+                "level": 4,
+                "id": 201212,
+                "ogr": true,
+                "label": "Städtebau"
+              },
+              {
+                "level": 4,
+                "id": 201215,
+                "ogr": true,
+                "label": "Baukulturelles Erbe"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2013,
+            "ogr": true,
+            "label": "Verkehrswesen",
+            "children": [
+              {
+                "level": 4,
+                "id": 201301,
+                "ogr": true,
+                "label": "Bahnbau"
+              },
+              {
+                "level": 4,
+                "id": 201302,
+                "ogr": true,
+                "label": "Eisenbahnwesen"
+              },
+              {
+                "level": 4,
+                "id": 201303,
+                "ogr": true,
+                "label": "Seilbahnwesen"
+              },
+              {
+                "level": 4,
+                "id": 201304,
+                "ogr": true,
+                "label": "Straßenbau"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2019,
+            "ogr": true,
+            "label": "Sonstiges Bauwesen",
+            "children": [
+              {
+                "level": 4,
+                "id": 201906,
+                "ogr": true,
+                "label": "Bauwerksbegrünung"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "id": 207,
+        "ogr": true,
+        "label": "Umweltingenieurwesen, Angewandte Geowissenschaften",
+        "children": [
+          {
+            "level": 3,
+            "id": 2071,
+            "ogr": true,
+            "label": "Umwelttechnik",
+            "children": [
+              {
+                "level": 4,
+                "id": 207104,
+                "ogr": true,
+                "label": "Altlastensanierung"
+              },
+              {
+                "level": 4,
+                "id": 207106,
+                "ogr": true,
+                "label": "Erneuerbare Energie"
+              },
+              {
+                "level": 4,
+                "id": 207109,
+                "ogr": true,
+                "label": "Schadstoffemission"
+              },
+              {
+                "level": 4,
+                "id": 207113,
+                "ogr": true,
+                "label": "Wasserinfrastruktur"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2072,
+            "ogr": true,
+            "label": "Ingenieurgeologie, Geotechnik",
+            "children": [
+              {
+                "level": 4,
+                "id": 207201,
+                "ogr": true,
+                "label": "Bodenmechanik"
+              },
+              {
+                "level": 4,
+                "id": 207207,
+                "ogr": true,
+                "label": "Tunnelbau"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 2073,
+            "ogr": true,
+            "label": "Bergbau, Erdölgewinnung"
+          },
+          {
+            "level": 3,
+            "id": 2074,
+            "ogr": true,
+            "label": "Geodäsie, Vermessungswesen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "id": 4,
+    "ogr": true,
+    "label": "Agrarwissenschaften, Veterinärmedizin",
+    "children": [
+      {
+        "level": 2,
+        "id": 401,
+        "ogr": true,
+        "label": "Land- und Forstwirtschaft, Fischerei",
+        "children": [
+          {
+            "level": 3,
+            "id": 4011,
+            "ogr": true,
+            "label": "Ackerbau, Gartenbau",
+            "children": [
+              {
+                "level": 4,
+                "id": 401101,
+                "ogr": true,
+                "label": "Ackerbau"
+              },
+              {
+                "level": 4,
+                "id": 401103,
+                "ogr": true,
+                "label": "Gartenbau"
+              },
+              {
+                "level": 4,
+                "id": 401106,
+                "ogr": true,
+                "label": "Landschaftspflege"
+              },
+              {
+                "level": 4,
+                "id": 401117,
+                "ogr": true,
+                "label": "Weinbau"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "id": 4012,
+            "ogr": true,
+            "label": "Forst- und Holzwirtschaft",
+            "children": [
+              {
+                "level": 4,
+                "id": 401205,
+                "ogr": true,
+                "label": "Forstwirtschaft"
+              },
+              {
+                "level": 4,
+                "id": 401208,
+                "ogr": true,
+                "label": "Waldökologie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "id": 405,
+        "ogr": true,
+        "label": "Andere Agrarwissenschaften",
+        "children": [
+          {
+            "level": 3,
+            "id": 4050,
+            "ogr": true,
+            "label": "Andere Agrarwissenschaften",
+            "children": [
+              {
+                "level": 4,
+                "id": 405004,
+                "ogr": true,
+                "label": "Nachhaltige Landwirtschaft"
+              },
+              {
+                "level": 4,
+                "id": 405005,
+                "ogr": true,
+                "label": "Wildtierkunde"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "id": 5,
+    "ogr": false,
+    "label": "Sozialwissenschaften",
+    "children": [
+      {
+        "level": 2,
+        "id": 507,
+        "ogr": true,
+        "label": "Humangeographie, Regionale Geographie, Raumplanung",
+        "children": [
+          {
+            "level": 3,
+            "id": 5070,
+            "ogr": true,
+            "label": "Humangeographie, Regionale Geographie, Raumplanung",
+            "children": [
+              {
+                "level": 4,
+                "id": 507005,
+                "ogr": true,
+                "label": "Kulturgeographie"
+              },
+              {
+                "level": 4,
+                "id": 507008,
+                "ogr": true,
+                "label": "Landschaftsplanung"
+              },
+              {
+                "level": 4,
+                "id": 507009,
+                "ogr": true,
+                "label": "Örtliche Raumplanung"
+              },
+              {
+                "level": 4,
+                "id": 507013,
+                "ogr": true,
+                "label": "Regionale Geographie"
+              },
+              {
+                "level": 4,
+                "id": 507017,
+                "ogr": true,
+                "label": "Sozialgeographie"
+              },
+              {
+                "level": 4,
+                "id": 507018,
+                "ogr": true,
+                "label": "Stadt-, Dorferneuerung"
+              },
+              {
+                "level": 4,
+                "id": 507021,
+                "ogr": true,
+                "label": "Stadtgeschichte"
+              },
+              {
+                "level": 4,
+                "id": 507022,
+                "ogr": true,
+                "label": "Stadtplanung"
+              },
+              {
+                "level": 4,
+                "id": 507025,
+                "ogr": true,
+                "label": "Verkehrsplanung"
+              },
+              {
+                "level": 4,
+                "id": 507027,
+                "ogr": true,
+                "label": "Nachhaltige Stadtentwicklung"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "id": 6,
+    "ogr": true,
+    "label": "Geisteswissenschaften",
+    "children": [
+      {
+        "level": 2,
+        "id": 601,
+        "ogr": true,
+        "label": "Geschichte, Archäologie"
+      }
+    ]
+  }
+]

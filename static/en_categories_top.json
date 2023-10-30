@@ -1,0 +1,56 @@
+[
+  {
+    "level": 2,
+    "id": 601,
+    "ogr": true,
+    "label": "History, Archaeology"
+  },
+  {
+    "level": 3,
+    "id": 1051,
+    "ogr": true,
+    "label": "Geology, Mineralogy"
+  },
+  {
+    "level": 3,
+    "id": 1052,
+    "ogr": true,
+    "label": "Meteorology, Climatology"
+  },
+  {
+    "level": 3,
+    "id": 1053,
+    "ogr": true,
+    "label": "Hydrology"
+  },
+  {
+    "level": 4,
+    "id": 106008,
+    "ogr": true,
+    "label": "Botany"
+  },
+  {
+    "level": 4,
+    "id": 507005,
+    "ogr": true,
+    "label": "Cultural geography"
+  },
+  {
+    "level": 4,
+    "id": 507022,
+    "ogr": true,
+    "label": "Urban planning"
+  },
+  {
+    "level": 2,
+    "id": 401,
+    "ogr": true,
+    "label": "Agriculture and Forestry, Fishery"
+  },
+  {
+    "level": 4,
+    "id": 106047,
+    "ogr": true,
+    "label": "Animal ecology"
+  }
+]

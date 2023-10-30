@@ -1,0 +1,30 @@
+mutation($id: ID!, $content: String!) {
+    answerQuestion(
+        id: $id,
+        content: $content
+    ) {
+        answers {
+            id
+            content
+            created
+            user {
+                username
+                roles {
+                    name
+                }
+            }
+            votes {
+                upCount
+                downCount
+            }
+            comments {
+                id
+                content
+                created
+                user {
+                    username
+                }
+            }
+        }
+    }
+}

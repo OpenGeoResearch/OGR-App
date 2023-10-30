@@ -1,0 +1,25 @@
+query unansweredQuestions($size: Int!) {
+    unansweredQuestions (size: $size) {
+       id
+        votes {
+          upCount
+          downCount
+        }
+        datastream {
+            name
+            description
+            resultTime
+            observedArea
+            images
+            category
+            properties
+        }
+        answers {
+            user {
+                roles {
+                    name
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+query QuestionSeries {
+    questionSeries {
+        id
+        name
+        start
+        end
+        tag
+        exam
+        parentQuestion {
+            id
+            votes {
+                upCount
+                downCount
+            }
+            datastream {
+                name
+                description
+                resultTime
+                images
+                category
+                observedArea
+            }
+            user {
+                username
+                roles {
+                    name
+                }
+            }
+            answers {
+                id
+                content
+                created
+                user {
+                    username
+                    roles {
+                        name
+                    }
+                }
+                votes {
+                    upCount
+                    downCount
+                }
+                comments {
+                    id
+                    content
+                    created
+                    user {
+                        username
+                    }
+                }
+            }
+            comments {
+                id
+                content
+                created
+                user {
+                    username
+                }
+            }
+        }
+    }
+}

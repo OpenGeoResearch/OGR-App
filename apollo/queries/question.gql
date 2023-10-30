@@ -1,0 +1,55 @@
+query Question($id: ID!) {
+  question(id: $id) {
+    id
+    datastream {
+        name
+        description
+        category
+        resultTime
+        observedArea
+        images
+        properties
+    }
+    votes {
+        upCount
+        downCount
+    }
+    user {
+        username
+        roles {
+            name
+        }
+    }
+    answers {
+        id
+        content
+        created
+        user {
+            username
+            roles {
+                name
+            }
+        }
+        votes {
+            upCount
+            downCount
+        }
+        comments {
+            id
+            content
+            created
+            user {
+                username
+            }
+        }
+    }
+    comments {
+        id
+        content
+        created
+        user {
+            username
+        }
+    }
+  }
+}

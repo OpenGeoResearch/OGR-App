@@ -1,0 +1,8 @@
+query Question($id: ID!) {
+    questionSeriesChildren(id: $id) {
+        id
+        datastream {
+            observedArea
+        }
+    }
+}

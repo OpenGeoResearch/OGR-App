@@ -1,0 +1,30 @@
+{
+  "map": {
+    "zoom": 8,
+    "EPSG": 4326,
+    "center": [
+      8.028333,
+      50.906389
+    ],
+    "_center_aachen": [
+      6.0786284,
+      50.7874583
+    ],
+    "rotation": 0
+  },
+  "base": {
+    "visible": true,
+    "active": "osm",
+    "layers": [
+      {
+        "id": "osm",
+        "title": "OSM",
+        "cmp": "vl-layer-vector",
+        "source": {
+          "cmp": "vl-source-osm"
+        }
+      }
+    ]
+  },
+  "overlays": []
+}

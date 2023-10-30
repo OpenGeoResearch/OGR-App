@@ -1,0 +1,25 @@
+query topVotedQuestions($size: Int!) {
+    topVotedQuestions (size: $size) {
+       id
+        votes {
+          upCount
+          downCount
+        }
+        datastream {
+            name
+            description
+            resultTime
+            observedArea
+            images
+            category
+            properties
+        }
+        answers {
+            user {
+                roles {
+                    name
+                }
+            }
+        }
+    }
+}

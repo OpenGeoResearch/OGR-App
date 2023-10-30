@@ -1,0 +1,19 @@
+query QuestionSeries($tag: String!) {
+    questionSeriesByTag(tag: $tag) {
+        id
+        name
+        start
+        end
+        tag
+        exam
+        parentQuestion {
+            id
+            datastream {
+                name
+                description
+                category
+                images
+            }
+        }
+    }
+}

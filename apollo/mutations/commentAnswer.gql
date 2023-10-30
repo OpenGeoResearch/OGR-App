@@ -1,0 +1,15 @@
+mutation($id: ID!, $content: String!) {
+    commentAnswer(
+        id: $id,
+        content: $content
+    ) {
+        comments {
+            id
+            content
+            created
+            user {
+                username
+            }
+        }
+    }
+}
